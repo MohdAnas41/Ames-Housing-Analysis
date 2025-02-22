@@ -22,4 +22,4 @@ This project explores the **Ames Housing Dataset**, performing **Exploratory Dat
 ## 💻 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ames-housing-analysis.git
+   git clone https://github.com/MohdAnas41/ames-housing-analysis.git
